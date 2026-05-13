@@ -64,3 +64,4 @@ prs/
 .tldrignore
 scripts/process_ideas_v3.py
 tasks/
+.env
